@@ -76,7 +76,8 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+![image](https://github.com/vinushcv/Find-the-best-fit-line-using-Least-Squares-Method/assets/113975318/c0b81aee-ba0a-4984-831f-a04841c9c3df)
+
 
 ![image](https://github.com/vinushcv/Find-the-best-fit-line-using-Least-Squares-Method/assets/113975318/a7f97185-17e9-41ba-812f-9b426e34bc36)
 
