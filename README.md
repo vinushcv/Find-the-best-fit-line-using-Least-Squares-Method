@@ -78,6 +78,26 @@ plt.show()
 ## Output:
 ![best fit line](sam.png)
 
+![image](https://github.com/vinushcv/Find-the-best-fit-line-using-Least-Squares-Method/assets/113975318/a7f97185-17e9-41ba-812f-9b426e34bc36)
+
+
+![image](https://github.com/vinushcv/Find-the-best-fit-line-using-Least-Squares-Method/assets/113975318/13730e9a-d1d5-4c5f-ad13-6b02662da8a6)
+
+
+![image](https://github.com/vinushcv/Find-the-best-fit-line-using-Least-Squares-Method/assets/113975318/78bc66d5-7675-4ad4-b676-1bb0ba31cfb2)
+
+
+![image](https://github.com/vinushcv/Find-the-best-fit-line-using-Least-Squares-Method/assets/113975318/5d74d2d2-12b3-4bfb-913b-d4756b3236b3)
+
+
+
+![image](https://github.com/vinushcv/Find-the-best-fit-line-using-Least-Squares-Method/assets/113975318/1217505e-9bb9-482e-82be-b27fd33bdc13)
+
+
+
+
+
+
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
